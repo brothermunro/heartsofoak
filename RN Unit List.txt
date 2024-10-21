@@ -1,0 +1,59 @@
+RN Unit List 1947-1991
+In game
+Battle class DD* [only has her main guns, the bofors and torps currently aren't included]
+C-class DD
+Z-Class DD
+
+To add!
+
+Surface Ships
+KGV class BB
+
+Implacable class CV
+Audacious class CV
+Invincible class CVL
+
+Minotaur/Swiftsure '43 class CL
+Dido class CL
+County class CG
+
+
+Weapon class DD
+Daring class '49 DD
+Type 82 DDG
+Type 42 DDG
+
+Type 81/Tribal class FF
+Type 21 FFG
+Leander/Type 21I FF
+Type 22/Broadsword FFG
+Type 23 FFG
+
+Submarines
+Trafalgar class SSN
+Swiftsure class SSN
+Churchill class SSN
+Valiant class SSN
+Resolution class SSBN
+
+Fixed Wing Aircraft
+Seafire L.III
+Sea Hornet F.20
+Firebrand TF.5
+Buccaneer S2
+F-4K Phantom FG.1
+Gannet AEW.3
+Sea Harrier FRS.1
+Harrier GR.3
+Nimrod MR1/MR2
+E-3 Sentry RAF
+Vulcan
+Tornado GR1/F3
+
+
+
+Rotary Wing Aircraft
+Lynx
+Merlin 
+Sea King
+Wasp
