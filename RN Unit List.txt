@@ -8,6 +8,7 @@ To add!
 
 Surface Ships
 KGV class BB
+HMS Vanguard BB
 
 Implacable class CV
 Audacious class CV
