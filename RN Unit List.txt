@@ -21,35 +21,35 @@ County class CG
 
 Weapon class DD
 Daring class '49 DD
-Type 82 DDG
-Type 42 DDG
+Type 82 DDG [Coontz class]
+Type 42 DDG [Adams class]
 
 Type 81/Tribal class FF
-Type 21 FFG
-Leander/Type 21I FF
-Type 22/Broadsword FFG
-Type 23 FFG
+Type 21 FFG [Iranian Alvand class]
+Leander/Type 21I FF [Alvand class]
+Type 22/Broadsword FFG [Knox class]
+Type 23 FFG [OH Perry class]
 
 Submarines
-Trafalgar class SSN
-Swiftsure class SSN
-Churchill class SSN
-Valiant class SSN
-Resolution class SSBN
+Trafalgar class SSN [Los Angeles class]
+Swiftsure class SSN [Sturgeon class]
+Churchill class SSN [Victor 3?]
+Valiant class SSN [Skipjack class]
+Resolution class SSBN [Lafayerre class]
 
 Fixed Wing Aircraft
 Seafire L.III
 Sea Hornet F.20
 Firebrand TF.5
-Buccaneer S2
-F-4K Phantom FG.1
-Gannet AEW.3
-Sea Harrier FRS.1
-Harrier GR.3
-Nimrod MR1/MR2
-E-3 Sentry RAF
-Vulcan
-Tornado GR1/F3
+Buccaneer S2 [A-6 Intruder]
+F-4K Phantom FG.1 [F-4D]
+Gannet AEW.3 [E-2]
+Sea Harrier FRS.1 [AV8-A]
+Harrier GR.3 [AV8-A]
+Nimrod MR1/MR2 [707?]
+E-3 Sentry RAF [E-3A]
+Vulcan [TU-22M?]
+Tornado GR1/F3 [SU-24?]
 
 
 
