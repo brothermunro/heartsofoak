@@ -154,23 +154,23 @@ Collider=coll_sps67
 
 #---------- FC radars ----------
 #SAM
-[SensorSystem5]  #SPG-51
+[Type909]  #Type909
 #Illumination/tracking FC radar for Standard missiles. Mounted behind rear funnel. Closer to bow.
 Type=Radar
-SystemName=SPG-51
+SystemName=Type909
 Mount=SPG_51_Mount_1
 Radar=SPG_51_Illuminator_1
 RestAngles=180
 Collider=coll_spg51_1
 
-[SensorSystem6]  #SPG-51
-#Illumination/tracking FC radar for Standard missiles. Mounted behind rear funnel. Closer to aft.
+[Type909]  #Type909
+#Illumination/tracking FC radar for Standard missiles. Mounted behind rear funnel. Closer to bow.
 Type=Radar
-SystemName=SPG-51
-Mount=SPG_51_Mount_2
-Radar=SPG_51_Illuminator_2
+SystemName=Type909
+Mount=SPG_51_Mount_1
+Radar=SPG_51_Illuminator_1
 RestAngles=180
-Collider=coll_spg51_2
+Collider=coll_spg51_1
 
 #ASM
 #Guns
@@ -183,10 +183,10 @@ Collider=coll_mk68
 
 #CIWS
 #---------- Sonar ----------
-[SensorSystem8]  #Hull sonar
+[Type2050]  #Hull sonar
 #Sonar. Located in nose bulb
 Type=Sonar
-SystemName=SQS-23
+SystemName=Type2050
 Mount=Dummy
 MountPosition=0,-0.056,0.863
 Collider=coll_sqs23
