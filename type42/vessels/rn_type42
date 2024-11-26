@@ -154,7 +154,7 @@ Collider=coll_sps67
 
 #---------- FC radars ----------
 #SAM
-[Type909]  #Type909
+[Type909A]  #Type909
 #Illumination/tracking FC radar for Standard missiles. Mounted behind rear funnel. Closer to bow.
 Type=Radar
 SystemName=Type909
@@ -163,7 +163,7 @@ Radar=SPG_51_Illuminator_1
 RestAngles=180
 Collider=coll_spg51_1
 
-[Type909]  #Type909
+[Type909B]  #Type909
 #Illumination/tracking FC radar for Standard missiles. Mounted behind rear funnel. Closer to bow.
 Type=Radar
 SystemName=Type909
@@ -219,7 +219,7 @@ NumberOfWeaponSystems=8
 Type=Missile
 SystemName=MK13
 #Sensors
-AssociatedSensors=SensorSystem5,SensorSystem6
+AssociatedSensors=Type909A,Type909B
 #Animations
 UnloadAmmunitionAnimation=UnloadAmmunition
 LoadAmmunitionAnimation=LoadAmmunition
