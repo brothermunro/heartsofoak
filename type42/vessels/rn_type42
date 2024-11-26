@@ -233,9 +233,9 @@ Container1=MK13_Rail
 AreContainersRotatable=True
 #Angles
 FixVerticalLaunchAngle=35
-FiringArcs=60,-60
-ElevationArc=10,85
-RestAngles=180,-15
+FiringArcs=70,-70
+ElevationArc=5,85
+RestAngles=180,-30
 LoadAngles=180,-90
 #Loading
 AssociatedMagazine=WeaponMagazineMK13
