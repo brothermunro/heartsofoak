@@ -4656,7 +4656,7 @@ ModuleType=SmallSensor
 
 [ ---------------------------- Sonars ----------------------------- ]
 ### Sonar
-[Type-2050] Hull mounted sonar
+[Type2050] Hull mounted sonar
 #Users: rn_type42
 Kind=Sonar
 HasDataLink=True                     // true means the sensor data will be used for the entire task force via data link, false local use only
