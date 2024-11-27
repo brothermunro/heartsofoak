@@ -2,7 +2,7 @@
 #                                                  REQUIRES STATS REVISION
 #=========================================================================================================================================================
 [General]
-# SM-1MR
+# Sea Dart
 Type=Missile                           // can be Projectile, Missile, Torpedo
 TargetType=AAW                         // can be AAW, ASuW, ASW
 SecondaryTargetType=ASuW
